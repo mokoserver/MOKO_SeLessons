@@ -1,0 +1,15 @@
+{
+"project_name":"Демонстрационный проект",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Регистрация образца.py","necessary":"false"},
+{"script":"2 6.6.3 Проверка параметров частоты и фазы в статическом радиоканале, максимальной выходной мощности, уровней регулировки мощности передающего устройства и синхронизации передаваемого пакета.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"},
+{"script":"MOSC.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

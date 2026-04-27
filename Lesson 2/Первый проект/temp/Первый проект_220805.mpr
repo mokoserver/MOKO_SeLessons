@@ -1,0 +1,19 @@
+{
+"scripts":
+[
+{"name":"1 Приветствие","smark":"done"},
+{"name":"2 Первый проект","smark":"done"},
+{"name":"3 Завершение","smark":"done"}
+],
+"report":
+[
+
+],
+"tree":
+[
+{"line":"0","name":"Первый проект","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"1 Приветствие","type":"script","project":"Первый проект","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"2","name":"2 Первый проект","type":"script","project":"Первый проект","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"3","name":"3 Завершение","type":"script","project":"Первый проект","script":"","region":"","status":"empty","pcode":"0","pcount":"1"}
+]
+}

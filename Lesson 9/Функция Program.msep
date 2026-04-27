@@ -1,0 +1,18 @@
+{
+"project_name":"Функция Program",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Приветствие.py","necessary":"false"},
+{"script":"2 Функция Program - script.py","necessary":"false"},
+{"script":"3 Функция Program - control.py","necessary":"false"},
+{"script":"4 Функция Program - project.py","necessary":"false"},
+{"script":"5 Функция Program - tree.py","necessary":"false"},
+{"script":"6 Завершение.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

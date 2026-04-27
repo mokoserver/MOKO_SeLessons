@@ -1,0 +1,21 @@
+{
+"scripts":
+[
+{"name":"myutility","smark":"done"}
+],
+"report":
+[
+{"name":"user_surname","kind":"string","info":"","script":"myutility",
+"data":"Нистюк12"},
+{"name":"user_name","kind":"string","info":"","script":"myutility",
+"data":"Александр56"},
+{"name":"user_patronymic","kind":"string","info":"","script":"myutility",
+"data":"Сергеевич123"}
+
+],
+"tree":
+[
+{"line":"0","name":"My Utility","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"myutility","type":"script","project":"My Utility","script":"","region":"","status":"empty","pcode":"0","pcount":"1"}
+]
+}

@@ -1,0 +1,14 @@
+{
+"project_name":"Демонстрационный проект",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Регистрация образца.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"},
+{"script":"MOSC.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

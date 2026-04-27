@@ -1,0 +1,23 @@
+{
+"scripts":
+[
+{"name":"1 Приветствие","smark":"done"},
+{"name":"2 Функция Utility - set","smark":"done"},
+{"name":"3 Функция Utility - get","smark":"done"},
+{"name":"4 Завершение","smark":"done"}
+],
+"report":
+[
+{"name":"Message","kind":"string","info":"","script":"3 Функция Utility - get",
+"data":"False"}
+
+],
+"tree":
+[
+{"line":"0","name":"Функция Utility","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"1 Приветствие","type":"script","project":"Функция Utility","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"2","name":"2 Функция Utility - set","type":"script","project":"Функция Utility","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"3","name":"3 Функция Utility - get","type":"script","project":"Функция Utility","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"4","name":"4 Завершение","type":"script","project":"Функция Utility","script":"","region":"","status":"empty","pcode":"0","pcount":"1"}
+]
+}

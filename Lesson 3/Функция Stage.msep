@@ -1,0 +1,15 @@
+{
+"project_name":"Функция Stage",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Приветствие.py","necessary":"true"},
+{"script":"2 Функция Stage.py","necessary":"false"},
+{"script":"3 Завершение.py","necessary":"true"}
+],
+"project_libraries":[
+{"script":"MOKO.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

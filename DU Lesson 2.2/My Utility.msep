@@ -1,0 +1,13 @@
+{
+"project_name":"My Utility",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"myutility.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"}
+],
+"project_templates":[
+{"script":"myutility.docx"}
+]
+}

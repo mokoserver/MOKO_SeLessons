@@ -1,0 +1,15 @@
+{
+"project_name":"Первый проект",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Приветствие.py","necessary":"true"},
+{"script":"2 Первый проект.py","necessary":"false"},
+{"script":"3 Прощание.py","necessary":"true"}
+],
+"project_libraries":[
+{"script":"MOKO.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

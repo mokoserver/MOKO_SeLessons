@@ -1,0 +1,13 @@
+{
+"project_name":"My Driver",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"mydriver.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"}
+],
+"project_templates":[
+{"script":"mydriver.docx"}
+]
+}

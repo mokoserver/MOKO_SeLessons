@@ -1,0 +1,16 @@
+{
+"project_name":"Функция Driver",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Приветствие.py","necessary":"false"},
+{"script":"2 Функция Driver - set.py","necessary":"false"},
+{"script":"3 Функция Driver - get.py","necessary":"false"},
+{"script":"4 Завершение.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

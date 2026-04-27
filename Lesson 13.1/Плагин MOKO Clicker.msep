@@ -1,0 +1,20 @@
+{
+"project_name":"Плагин MOKO Clicker",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Приветствие.py","necessary":"false"},
+{"script":"2 Плагин MOKO Clicker - init.py","necessary":"false"},
+{"script":"3 Команда MouseLeftClick.py","necessary":"false"},
+{"script":"4 Команда MouseRightClick.py","necessary":"false"},
+{"script":"5 Команда MouseMiddleClick.py","necessary":"false"},
+{"script":"6 Команда MouseMove.py","necessary":"false"},
+{"script":"7 Завершение.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"},
+{"script":"MCLK.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

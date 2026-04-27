@@ -1,0 +1,23 @@
+{
+"scripts":
+[
+{"name":"1 Приветствие","smark":"done"},
+{"name":"2 Добавление графиков","smark":"done"},
+{"name":"3 Подпись осей","smark":"done"},
+{"name":"4 Изменение графиков","smark":"done"},
+{"name":"5 Завершение","smark":"done"}
+],
+"report":
+[
+
+],
+"tree":
+[
+{"line":"0","name":"Плагин MOKO Graph","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"1 Приветствие","type":"script","project":"Плагин MOKO Graph","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"2","name":"2 Добавление графиков","type":"script","project":"Плагин MOKO Graph","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"3","name":"3 Подпись осей","type":"script","project":"Плагин MOKO Graph","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"4","name":"4 Изменение графиков","type":"script","project":"Плагин MOKO Graph","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"5","name":"5 Завершение","type":"script","project":"Плагин MOKO Graph","script":"","region":"","status":"empty","pcode":"0","pcount":"1"}
+]
+}

@@ -1,0 +1,27 @@
+{
+"scripts":
+[
+{"name":"1 Приветствие","smark":""},
+{"name":"2 Функция Report - set","smark":""},
+{"name":"3 Функция Report - get","smark":""},
+{"name":"4 Функция Report - save","smark":""},
+{"name":"5 Функция Report - clear","smark":""},
+{"name":"6 Функция Report - delete","smark":""},
+{"name":"7 Завершение","smark":""}
+],
+"report":
+[
+
+],
+"tree":
+[
+{"line":"0","name":"Функция Report","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"1 Приветствие","type":"script","project":"Функция Report","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"2","name":"2 Функция Report - set","type":"script","project":"Функция Report","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"3","name":"3 Функция Report - get","type":"script","project":"Функция Report","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"4","name":"4 Функция Report - save","type":"script","project":"Функция Report","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"5","name":"5 Функция Report - clear","type":"script","project":"Функция Report","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"6","name":"6 Функция Report - delete","type":"script","project":"Функция Report","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"7","name":"7 Завершение","type":"script","project":"Функция Report","script":"","region":"","status":"empty","pcode":"0","pcount":"1"}
+]
+}

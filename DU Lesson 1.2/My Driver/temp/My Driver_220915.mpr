@@ -1,0 +1,23 @@
+{
+"scripts":
+[
+{"name":"mydriver","smark":"done"}
+],
+"report":
+[
+{"name":"check_1","kind":"string","info":"","script":"mydriver",
+"data":"TRUE"},
+{"name":"check_2","kind":"string","info":"","script":"mydriver",
+"data":"FALSE"},
+{"name":"check_3","kind":"string","info":"","script":"mydriver",
+"data":"TRUE"},
+{"name":"check_4","kind":"string","info":"","script":"mydriver",
+"data":"FALSE"}
+
+],
+"tree":
+[
+{"line":"0","name":"My Driver","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"mydriver","type":"script","project":"My Driver","script":"","region":"","status":"empty","pcode":"0","pcount":"1"}
+]
+}

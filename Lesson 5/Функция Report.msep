@@ -1,0 +1,19 @@
+{
+"project_name":"Функция Report",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Приветствие.py","necessary":"false"},
+{"script":"2 Функция Report - set.py","necessary":"false"},
+{"script":"3 Функция Report - get.py","necessary":"false"},
+{"script":"4 Функция Report - save.py","necessary":"false"},
+{"script":"5 Функция Report - clear.py","necessary":"false"},
+{"script":"6 Функция Report - delete.py","necessary":"false"},
+{"script":"7 Завершение.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

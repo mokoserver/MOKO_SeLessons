@@ -1,0 +1,18 @@
+{
+"project_name":"Плагин MOKO Graph",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Приветствие.py","necessary":"false"},
+{"script":"2 Добавление графиков.py","necessary":"false"},
+{"script":"3 Подпись осей.py","necessary":"false"},
+{"script":"4 Изменение графиков.py","necessary":"false"},
+{"script":"5 Завершение.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"},
+{"script":"MGPH.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

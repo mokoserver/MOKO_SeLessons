@@ -1,0 +1,21 @@
+{
+"scripts":
+[
+{"name":"1 Приветствие","smark":"canceled"},
+{"name":"2 Функция Messenger - set","smark":"canceled"},
+{"name":"3 Функция Messenger - get","smark":"done"},
+{"name":"4 Завершение","smark":""}
+],
+"report":
+[
+
+],
+"tree":
+[
+{"line":"0","name":"Функция Messenger","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"1 Приветствие","type":"script","project":"Функция Messenger","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"2","name":"2 Функция Messenger - set","type":"script","project":"Функция Messenger","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"3","name":"3 Функция Messenger - get","type":"script","project":"Функция Messenger","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"4","name":"4 Завершение","type":"script","project":"Функция Messenger","script":"","region":"","status":"empty","pcode":"0","pcount":"1"}
+]
+}

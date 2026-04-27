@@ -1,0 +1,37 @@
+{
+"scripts":
+[
+{"name":"1 Приветствие","smark":"done"},
+{"name":"2 Функция Telegram - set","smark":"passed"},
+{"name":"3 Функция Telegram - get","smark":"passed"},
+{"name":"4 Telegram - функция Stage","smark":"passed"},
+{"name":"5 Telegram - функция Driver","smark":"done"},
+{"name":"6 Telegram - функция Report","smark":"done"},
+{"name":"7 Telegram - функция Messsenger","smark":"done"},
+{"name":"8 Telegram - функция Program","smark":"done"},
+{"name":"9 Telegram - функция Plugin","smark":"done"},
+{"name":"10 Telegram - функция Utility","smark":"done"},
+{"name":"11 Завершение","smark":"done"}
+],
+"report":
+[
+{"name":"alpha","kind":"string","info":"","script":"3 Функция Telegram - get",
+"data":"614889019"}
+
+],
+"tree":
+[
+{"line":"0","name":"Функция Telegram","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"1 Приветствие","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"2","name":"2 Функция Telegram - set","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"3","name":"3 Функция Telegram - get","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"4","name":"4 Telegram - функция Stage","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"5","name":"5 Telegram - функция Driver","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"6","name":"6 Telegram - функция Report","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"7","name":"7 Telegram - функция Messsenger","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"8","name":"8 Telegram - функция Program","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"9","name":"9 Telegram - функция Plugin","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"10","name":"10 Telegram - функция Utility","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"11","name":"11 Завершение","type":"script","project":"Функция Telegram","script":"","region":"","status":"empty","pcode":"0","pcount":"1"}
+]
+}

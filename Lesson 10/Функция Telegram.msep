@@ -1,0 +1,24 @@
+{
+"project_name":"Функция Telegram",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"1 Приветствие.py","necessary":"false"},
+{"script":"2 Функция Telegram - set.py","necessary":"false"},
+{"script":"3 Функция Telegram - get.py","necessary":"false"},
+{"script":"4 Telegram - функция Stage.py","necessary":"false"},
+{"script":"5 Telegram - функция Driver.py","necessary":"false"},
+{"script":"6 Telegram - функция Report.py","necessary":"false"},
+{"script":"7 Telegram - функция Messsenger.py","necessary":"false"},
+{"script":"8 Telegram - функция Program.py","necessary":"false"},
+{"script":"9 Telegram - функция Plugin.py","necessary":"false"},
+{"script":"10 Telegram - функция Utility.py","necessary":"false"},
+{"script":"11 Завершение.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"},
+{"script":"MTLG.py"}
+],
+"project_templates":[
+{"script":"Отчёт.docx"}
+]
+}

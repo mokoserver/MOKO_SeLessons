@@ -1,0 +1,27 @@
+{
+"scripts":
+[
+{"name":"1 Приветствие","smark":"done"},
+{"name":"2 Плагин MOKO Clicker - init","smark":"done"},
+{"name":"3 Команда MouseLeftClick","smark":"done"},
+{"name":"4 Команда MouseRightClick","smark":""},
+{"name":"5 Команда MouseMiddleClick","smark":""},
+{"name":"6 Команда MouseMove","smark":""},
+{"name":"7 Завершение","smark":""}
+],
+"report":
+[
+
+],
+"tree":
+[
+{"line":"0","name":"Плагин MOKO Clicker","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"1 Приветствие","type":"script","project":"Плагин MOKO Clicker","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"2","name":"2 Плагин MOKO Clicker - init","type":"script","project":"Плагин MOKO Clicker","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"3","name":"3 Команда MouseLeftClick","type":"script","project":"Плагин MOKO Clicker","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"4","name":"4 Команда MouseRightClick","type":"script","project":"Плагин MOKO Clicker","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"5","name":"5 Команда MouseMiddleClick","type":"script","project":"Плагин MOKO Clicker","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"6","name":"6 Команда MouseMove","type":"script","project":"Плагин MOKO Clicker","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"7","name":"7 Завершение","type":"script","project":"Плагин MOKO Clicker","script":"","region":"","status":"empty","pcode":"0","pcount":"1"}
+]
+}

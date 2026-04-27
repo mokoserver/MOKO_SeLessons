@@ -1,0 +1,33 @@
+{
+"scripts":
+[
+{"name":"1 Регистрация образца","smark":"done"}
+],
+"report":
+[
+{"name":"RegistrationID","kind":"string","info":"","script":"1 Регистрация образца",
+"data":"654"},
+{"name":"cipher","kind":"string","info":"","script":"1 Регистрация образца",
+"data":"123"},
+{"name":"IMEI","kind":"string","info":"","script":"1 Регистрация образца",
+"data":"1234567890"},
+{"name":"the_start_date_of_the_test","kind":"string","info":"","script":"1 Регистрация образца",
+"data":"17.08.2022"},
+{"name":"date_of_completion_of_the_test","kind":"string","info":"","script":"1 Регистрация образца",
+"data":"18.08.2022"},
+{"name":"T_nom","kind":"string","info":"","script":"1 Регистрация образца",
+"data":"15,0"},
+{"name":"fi_nom","kind":"string","info":"","script":"1 Регистрация образца",
+"data":"50,0"},
+{"name":"P_nom","kind":"string","info":"","script":"1 Регистрация образца",
+"data":"90,0"}
+
+],
+"tree":
+[
+{"line":"0","name":"Демонстрационный проект","type":"project","project":"","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"1","name":"1 Регистрация образца","type":"script","project":"Демонстрационный проект","script":"","region":"","status":"empty","pcode":"0","pcount":"1"},
+{"line":"2","name":"Этапы регистрации:","type":"region","project":"Демонстрационный проект","script":"1 Регистрация образца","region":"","status":"empty","pcode":"0","pcount":"2"},
+{"line":"3","name":"Заполнение формы","type":"hesh","project":"Демонстрационный проект","script":"1 Регистрация образца","region":"Этапы регистрации:","status":"passed","pcode":"5","pcount":"2"}
+]
+}
